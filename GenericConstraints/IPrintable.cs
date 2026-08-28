@@ -30,10 +30,10 @@ namespace Assignment01AdvancedC_.GenericConstraints
     //    }
     //}
 
-    //class Printer<T> where T : IPrintable 
+    //class Printer<T> where T : IPrintable
     //{
 
-    //    public void Printt(T t) 
+    //    public void Printt(T t)
     //    {
     //        t.Print();
     //    }

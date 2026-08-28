@@ -11,15 +11,15 @@ namespace Assignment01AdvancedC_.GenericConstraints
 
     //    public string Name { get; set; }
 
-   
+
     //}
 
     //class Bclass : Baseclass
     //{
- 
+
     //}
 
-    //class Cclass<T> where T : Baseclass 
+    //class Cclass<T> where T : Baseclass
     //{
     //    public void Add(T baseClass)
     //    {

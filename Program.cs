@@ -113,6 +113,14 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q12
+
+            // Multiple constraints can be applied to a generic type by separating them with commas after the where keyword.
+            // And I create a `MyClass` object to see how it works
+
+
+            #endregion
+
         }
     }
 }
