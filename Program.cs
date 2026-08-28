@@ -13,6 +13,18 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q2
+
+            //Container<int> C1 = new Container<int>();
+            //C1.Add(1);
+            //Console.WriteLine(C1.Get());
+
+            //Container<string> C1 = new Container<string>();
+            //C1.Add("Ahmed");
+            //Console.WriteLine(C1.Get());
+
+            #endregion
+
         }
     }
 }
