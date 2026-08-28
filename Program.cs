@@ -163,6 +163,20 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q16
+
+            //A generic type with a base type can be assigned to a generic type with a derived type
+            //IConsumer<Animal> animalConsumer = new AnimalConsumer();
+
+            //IConsumer<Dog> dogConsumer = animalConsumer;
+
+            //Dog dog = new Dog();
+            //dog.Name = "Buddy";
+
+            //dogConsumer.Consume(dog);
+
+            #endregion
+
         }
     }
 }
