@@ -1,4 +1,5 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using Assignment01AdvancedC_.GenericConstraints;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Assignment01AdvancedC_
 {
@@ -58,6 +59,17 @@ namespace Assignment01AdvancedC_
             //IRepository<User> R1 = new UserRepository();
             //R1.Add(new User(2 , "Ahmed"));
             //Console.WriteLine(R1.Get(2));
+
+            #endregion
+
+            #region Q7
+
+            //Accessable Bec this value type Only
+            //Person<int>  P1 = new Person<int>(2);
+            //Console.WriteLine(P1.Value);
+
+            //Person<double>  P2 = new Person<double>(3.14);
+            //Console.WriteLine(P2.Value);
 
             #endregion
 
