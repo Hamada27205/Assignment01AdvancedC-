@@ -53,6 +53,14 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q6
+
+            //IRepository<User> R1 = new UserRepository();
+            //R1.Add(new User(2 , "Ahmed"));
+            //Console.WriteLine(R1.Get(2));
+
+            #endregion
+
         }
     }
 }
