@@ -177,6 +177,16 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q17
+
+            //Covariance uses the out keyword and allows a generic type with a derived type to be assigned to a generic type with a base type
+
+            //Contravariance uses the in keyword and allows a generic type with a base type to be assigned to a generic type with a derived type
+
+
+
+            #endregion
+
         }
     }
 }
