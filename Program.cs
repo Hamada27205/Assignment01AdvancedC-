@@ -121,6 +121,15 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q13
+
+            // The `default` keyword returns the default value of the generic type T
+            //Test<int> test1 = new Test<int>();
+
+            //Console.WriteLine(test1.GetDefault());
+
+            #endregion
+
         }
     }
 }
