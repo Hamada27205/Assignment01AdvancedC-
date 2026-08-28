@@ -143,6 +143,18 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q15
+
+            // Covariance allows you to use a more derived type where a base type is expected
+
+            //IProducer<Dog> dogProducer = new DogProduce();
+
+            //Dog dog = dogProducer.Get();
+
+            //Console.WriteLine(dog.Name);
+
+            #endregion
+
         }
     }
 }
