@@ -46,6 +46,13 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q5
+
+            //int S1 = Swapp.FindMax(20, 10);
+            //Console.WriteLine(S1);
+
+            #endregion
+
         }
     }
 }

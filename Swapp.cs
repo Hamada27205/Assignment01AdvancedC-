@@ -20,5 +20,14 @@ namespace Assignment01AdvancedC_
         //} 
         #endregion
 
+        #region Q5
+
+        //public static T FindMax<T>(T a, T b) where T : IComparable<T>
+        //{
+        //    return a.CompareTo(b) > 0 ? a : b;
+        //}
+
+        #endregion
+
     }
 }
