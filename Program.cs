@@ -36,6 +36,16 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q4
+
+            //int a = 1;
+            //int b = 2;
+            //Swapp.Swap(ref  a, ref  b);
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
+
+            #endregion
+
         }
     }
 }
