@@ -153,6 +153,14 @@ namespace Assignment01AdvancedC_
 
             //Console.WriteLine(dog.Name);
 
+            //IProducer<Dog> dogProducer = new DogProduce();
+
+            //IProducer<Animal> animalProducer = dogProducer;
+
+            //Animal animal = animalProducer.Get();
+
+            //Console.WriteLine(animal.Name);
+
             #endregion
 
         }

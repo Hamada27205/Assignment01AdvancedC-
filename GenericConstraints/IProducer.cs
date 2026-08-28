@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment01AdvancedC_.GenericConstraints
 {
-    //internal interface IProducer<T>
+    //internal interface IProducer<out T>
     //{
     //    T Get();
     //}
@@ -22,7 +22,7 @@ namespace Assignment01AdvancedC_.GenericConstraints
     //{
     //    public Dog Get()
     //    {
-    //        return new Dog{Name = "Wolf" };
+    //        return new Dog { Name = "Wolf" };
     //    }
     //}
 
