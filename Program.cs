@@ -101,6 +101,18 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q11
+
+            //Baseclass b = new Baseclass();
+
+            //b.Name = "Ahmed";
+
+            //Cclass<Baseclass> C1 = new Cclass<Baseclass>();
+
+            //C1.Add(b);
+
+            #endregion
+
         }
     }
 }
