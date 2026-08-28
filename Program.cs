@@ -81,6 +81,16 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q9
+
+            //Factory<Student> factory = new Factory<Student>();
+
+            //Student s = factory.GetValue();
+
+            //Console.WriteLine(s.Name);
+
+            #endregion
+
         }
     }
 }
