@@ -130,6 +130,19 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q14
+
+            //SafeList<int> list = new SafeList<int>();
+            //list.Add(10);
+            //list.Add(20);
+            //list.Add(30);
+            //list.Add(40);
+
+            //Console.WriteLine(list.Get(0));  
+            //Console.WriteLine(list.Get(5));  
+
+            #endregion
+
         }
     }
 }
