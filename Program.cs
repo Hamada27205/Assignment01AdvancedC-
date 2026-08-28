@@ -91,6 +91,16 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q10
+
+            //Printer<Student> printer = new Printer<Student>();
+            //printer.Printt(new Student());
+
+            //Printer<Article> printer2 = new Printer<Article>();
+            //printer2.Printt(new Article());
+
+            #endregion
+
         }
     }
 }
