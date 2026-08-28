@@ -25,6 +25,17 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q3
+
+            // Generic Class Can Have More Than One Type Parameter
+
+            //Pair<int, string> pair = new Pair<int, string>(1, "Ahmed");
+
+            //Console.WriteLine(pair.Value);
+            //Console.WriteLine(pair.Key);
+
+            #endregion
+
         }
     }
 }
