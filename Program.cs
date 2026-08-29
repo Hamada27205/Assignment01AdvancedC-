@@ -197,6 +197,18 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q19
+
+            // A class can inherit from a generic class by specifying the type argument or by keeping the derived class generic
+
+            //Child child = new Child();
+
+            //child.Value = 10;
+
+            //Console.WriteLine(child.Value);
+
+            #endregion
+
         }
     }
 }

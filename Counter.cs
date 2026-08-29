@@ -20,6 +20,17 @@ namespace Assignment01AdvancedC_
     //} 
     #endregion
 
+    #region Q19
 
+    //class Base<T>
+    //{
+    //    public T Value { get; set; }
+    //}
+
+    //class Child : Base<int>
+    //{
+    //}
+
+    #endregion
 
 }
