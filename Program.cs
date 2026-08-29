@@ -187,6 +187,16 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q18
+
+            // Static members in generic types are shared for the same type, but each different type has its own static member
+            //Counter<int> c1 = new Counter<int>();
+            //Counter<int> c2 = new Counter<int>();
+
+            //Console.WriteLine(Counter<int>.Count);
+
+            #endregion
+
         }
     }
 }
