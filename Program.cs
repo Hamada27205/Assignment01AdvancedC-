@@ -209,6 +209,39 @@ namespace Assignment01AdvancedC_
 
             #endregion
 
+            #region Q20
+
+            #region EX 1
+            //Cache<string> cache = new Cache<string>();
+
+            //cache.Add("user1", "Ahmed", 5);
+
+            //Console.WriteLine(cache.Get("user1"));       
+
+            //Thread.Sleep(6000);
+
+            //Console.WriteLine("===========================");
+
+            //Console.WriteLine(cache.Get("user1")); 
+            #endregion
+
+
+            #region EX 2
+            //Cache<string> cache = new Cache<string>();
+
+            //cache.Add("user1", "Ahmed", 5);
+
+            //Console.WriteLine(cache.Get("user1")); 
+
+            //Console.WriteLine(cache.Contains("user1")); 
+
+            //cache.Remove("user1");
+
+            //Console.WriteLine(cache.Contains("user1"));  
+            #endregion
+
+            #endregion
+
         }
     }
 }

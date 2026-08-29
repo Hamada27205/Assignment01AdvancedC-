@@ -33,4 +33,62 @@ namespace Assignment01AdvancedC_
 
     #endregion
 
+    #region Q20
+
+    //class CacheItem<T>
+    //{
+    //    public T Value { get; set; }
+    //    public DateTime Expiration { get; set; }
+    //}
+
+    //class Cache<T>
+    //{
+    //    private Dictionary<string, CacheItem<T>> items =
+    //        new Dictionary<string, CacheItem<T>>();
+
+    //    public void Add(string key, T value, int seconds)
+    //    {
+    //        items[key] = new CacheItem<T>
+    //        {
+    //            Value = value,
+    //            Expiration = DateTime.Now.AddSeconds(seconds)
+    //        };
+    //    }
+
+    //    public T Get(string key)
+    //    {
+    //        if (!items.ContainsKey(key))
+    //            return default(T);
+
+    //        if (DateTime.Now > items[key].Expiration)
+    //        {
+    //            items.Remove(key);
+    //            return default(T);
+    //        }
+
+    //        return items[key].Value;
+    //    }
+
+    //    public bool Contains(string key)
+    //    {
+    //        if (!items.ContainsKey(key))
+    //            return false;
+
+    //        if (DateTime.Now > items[key].Expiration)
+    //        {
+    //            items.Remove(key);
+    //            return false;
+    //        }
+
+    //        return true;
+    //    }
+
+    //    public void Remove(string key)
+    //    {
+    //        items.Remove(key);
+    //    }
+    //}
+
+    #endregion
+
 }
